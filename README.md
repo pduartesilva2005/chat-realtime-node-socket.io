@@ -18,7 +18,7 @@ Chat RealTime é uma app de chat de tempo real utilizando o Node e Socket.io
 
 ## Começando
 
-- Clone esse repositório `git clone https://github.com/pedroduarte2005/ts-auth.git `
+- Clone esse repositório `git clone https://github.com/pduartesilva2005/ts-auth.git `
 - Instale as Depedências `yarn` ou `npm install`
 - Rode o Projeto `node server.js`
 
